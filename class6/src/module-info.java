@@ -1,0 +1,2 @@
+module class6 {
+}
